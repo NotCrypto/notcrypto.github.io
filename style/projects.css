@@ -1,0 +1,18 @@
+* {
+    background-color: #14151b;
+}
+
+.soon {
+    position: relative;
+    margin-top: 400px;
+    font-size: 4rem;
+    font-family: sans-serif;
+}
+
+.soon:hover {
+    color: rgb(17, 223, 79)
+}
+
+.upperlow {
+    color: rgb(17, 223, 79)
+}
