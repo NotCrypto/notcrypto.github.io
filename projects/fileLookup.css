@@ -1,0 +1,42 @@
+        * {
+            background-color: #14151b;
+        }
+        
+        .mainText {
+            color: white;
+            font-size: 3rem;
+            margin-top: 50px;
+        }
+        
+        .mainText:hover {
+            color: rgb(17, 223, 79);
+        }
+        
+        .middleText {
+            color: white;
+            margin-top: 275px;
+            font-size: 3rem;
+            position: relative;
+        }
+        
+        .middleText:hover {
+            color: rgb(17, 223, 79);
+        }
+        
+        .githubAnger {
+            color: white;
+        }
+        
+        .githubAnger:hover {
+            color: lightblue;
+        }
+        
+        .githubText {
+            color: white;
+            font-size: 1rem;
+            margin-top: 540px;
+        }
+        
+        .githubText:hover {
+            color: rgb(17, 223, 79);
+        }
