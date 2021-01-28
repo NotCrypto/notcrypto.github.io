@@ -1,5 +1,9 @@
         * {
             background-color: #14151b;
+            box-sizing: border-box;
+            margin: 0;
+            border: 0;
+            padding: 0;
         }
         
         .mainText {
@@ -23,6 +27,17 @@
             color: rgb(17, 223, 79);
         }
         
+        .boxtest {
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+            margin: 0 auto;
+            height: 50vh;
+            width: 50vh;
+            background-color: #14151b;
+            display: inline-flex;
+        }
+        
         .githubAnger {
             color: white;
         }
@@ -34,7 +49,7 @@
         .githubText {
             color: white;
             font-size: 1rem;
-            margin-top: 540px;
+            margin-top: 100px;
         }
         
         .githubText:hover {
